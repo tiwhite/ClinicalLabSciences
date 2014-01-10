@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Canine Guidance</string>
+		<key>VideoPath</key>
+		<string>canineGuidance</string>
+	</dict>
+	
+	<dict>
+		<key>Name</key>
+		<string>Denture Cusp Movement</string>
+		<key>VideoPath</key>
+		<string>dentureCuspMovement</string>
+	</dict>
+	
+	<dict>
+		<key>Name</key>
+		<string>Group Function</string>
+		<key>VideoPath</key>
+		<string>groupFunction</string>
+	</dict>
+	
+	<dict>
+		<key>Name</key>
+		<string>Natural Occlusions</string>
+		<key>VideoPath</key>
+		<string>naturalOcclusions</string>
+	</dict>
+
+</array>
+</plist>
